@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    background: #000;
+    height: 100vh;
+    width: 100vw;
+}
+
+header {
+    background: red;
+    height: 100px;
+}
+
+main {
+    background: blue;
+    height: 100px;
+}
+
+aside {
+    background: yellow;
+    height: 400px;
+}
+
+footer {
+    background: purple;
+    height: 100px;
+}
