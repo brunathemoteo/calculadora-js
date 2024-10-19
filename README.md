@@ -19,4 +19,12 @@
 
 <h2 id="started">🚀 Objetivo</h2>
 
-O principal objetivo deste projeto foi praticar a manipulação da DOM utilizando JavaScript.
+O principal objetivo deste projeto foi aprender a utilizar CSS Grid para criação de layouts,<br>
+além de praticar a manipulação da DOM utilizando JavaScript.
+
+
+<h2>📫 Como Me Encontrar</h2>
+
+LinkedIn: [Bruna Themoteo](https://www.linkedin.com/in/brunathemoteo/)
+
+Email: dev.brunathemoteo@gmail.com
